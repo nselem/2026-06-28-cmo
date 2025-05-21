@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Casa Matemática Oaxaca"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Hidalgo 21 San Felipe del Agua, 68026 Oaxaca de Juárez, Oax."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "tba"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "tba."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "mx"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "es"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "17.1"        # decimal latitude of workshop venue (use https://www.latlong.net/)
