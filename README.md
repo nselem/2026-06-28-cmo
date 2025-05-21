@@ -250,3 +250,5 @@ or [mail us][email].
 [self-organized-workshop-form]: https://amy.carpentries.org/forms/self-organised/
 [swc-site]: https://software-carpentry.org
 [lc-site]: https://librarycarpentry.org
+
+-----
