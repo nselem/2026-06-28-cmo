@@ -28,7 +28,7 @@ what3words:           # optional: what3words (https://what3words.com) address of
       <div style="font-size:12px; margin-top:6px;">Figura A</div>
     </td>
     <td style="width:50%; padding:8px; vertical-align:top;">
-      <img src="Rfig/Cartel.png" alt="Descripción imagen 2" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <img src="fig/Cartel.png" alt="Descripción imagen 2" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       <div style="font-size:12px; margin-top:6px;">Figura B</div>
     </td>
   </tr>
