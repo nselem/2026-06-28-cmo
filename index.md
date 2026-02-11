@@ -21,7 +21,19 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
-![image](fig/banff.png)
+<table role="presentation" style="border-collapse:collapse; width:100%; text-align:center;">
+  <tr>
+    <td style="width:50%; padding:8px; vertical-align:top;">
+      <img src="fig/banff.png" alt="Descripción imagen 1" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <div style="font-size:12px; margin-top:6px;">Figura A</div>
+    </td>
+    <td style="width:50%; padding:8px; vertical-align:top;">
+      <img src="RUTA_O_URL_IMAGEN_2" alt="Descripción imagen 2" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <div style="font-size:12px; margin-top:6px;">Figura B</div>
+    </td>
+  </tr>
+</table>
+
 
 
 {% comment %}
