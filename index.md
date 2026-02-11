@@ -24,7 +24,7 @@ what3words:           # optional: what3words (https://what3words.com) address of
 <hr>
 
 <div style="text-align:center; margin:50px 0;">
-  <a href="URL_DEL_GOOGLE_FORM" target="_blank"
+  <a href="https://forms.gle/DQDMKdqvYKKZhYyX7" target="_blank"
      style="background: linear-gradient(135deg, #C62828, #F57C00);
             color: white;
             padding: 16px 36px;
@@ -38,6 +38,9 @@ what3words:           # optional: what3words (https://what3words.com) address of
     📝 Registro al Taller CCM
   </a>
 </div>
+
+
+
 
 <table role="presentation" style="border-collapse:collapse; width:100%; text-align:center;">
   <tr>
