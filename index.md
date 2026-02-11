@@ -35,7 +35,7 @@ what3words:           # optional: what3words (https://what3words.com) address of
             box-shadow: 0 4px 12px rgba(0,0,0,0.15);
             display: inline-block;
             transition: all 0.2s ease;">
-    📝 Registro al Taller CCM
+    📝 Workshop registration
   </a>
 </div>
 
@@ -46,11 +46,9 @@ what3words:           # optional: what3words (https://what3words.com) address of
   <tr>
     <td style="width:50%; padding:8px; vertical-align:top;">
       <img src="fig/banff.png" alt="Descripción imagen 1" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-      <div style="font-size:12px; margin-top:6px;">Figura A</div>
     </td>
     <td style="width:50%; padding:8px; vertical-align:top;">
       <img src="fig/Cartel.png" alt="Descripción imagen 2" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-      <div style="font-size:12px; margin-top:6px;">Figura B</div>
     </td>
   </tr>
 </table>
