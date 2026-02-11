@@ -21,6 +21,24 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
+<hr>
+
+<div style="text-align:center; margin:50px 0;">
+  <a href="URL_DEL_GOOGLE_FORM" target="_blank"
+     style="background: linear-gradient(135deg, #C62828, #F57C00);
+            color: white;
+            padding: 16px 36px;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 10px;
+            text-decoration: none;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            display: inline-block;
+            transition: all 0.2s ease;">
+    📝 Registro al Taller CCM
+  </a>
+</div>
+
 <table role="presentation" style="border-collapse:collapse; width:100%; text-align:center;">
   <tr>
     <td style="width:50%; padding:8px; vertical-align:top;">
