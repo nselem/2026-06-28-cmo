@@ -55,10 +55,6 @@ what3words:           # optional: what3words (https://what3words.com) address of
 
 
 
-{% comment %}
-Check DC curriculum
-{% endcomment %}
-
 {% if site.carpentry == "dc" %}
 {% unless site.curriculum == "dc-astronomy" or site.curriculum == "dc-ecology" or site.curriculum == "dc-genomics" or site.curriculum == "dc-geospatial" or site.curriculum == "dc-image" or site.curriculum == "dc-socsci" %}
 <div class="alert alert-warning">
