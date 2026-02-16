@@ -48,7 +48,7 @@ what3words:           # optional: what3words (https://what3words.com) address of
       <img src="fig/banff.png" alt="Descripción imagen 1" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
     <td style="width:50%; padding:8px; vertical-align:top;">
-      <img src="fig/Cartel.png" alt="Descripción imagen 2" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <img src="fig/Cartel.jpeg" alt="Descripción imagen 2" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
 </table>
